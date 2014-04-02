@@ -2,8 +2,16 @@
 
 Important git commands
 
+- git init
 - git status
 - git add <File Name>
 - git commit -m "put message here"
 - git log
-- 
+- git remote add <put a Variable name here> "name of remote repo"
+- git push <put a Variable name here> master
+- git pull <put a Variable name here> master
+- git config --global user.email "Email@address.here"
+- git config --global user.name "put your username here"
+
+- ssh-keygen -t rsa -C "Email@address.here"
+- ssh -T git@github.com
