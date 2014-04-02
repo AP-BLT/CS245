@@ -12,6 +12,10 @@ Important git commands
 - git pull <put a Variable name here> master
 - git config --global user.email "Email@address.here"
 - git config --global user.name "put your username here"
+- git branch
+- git branch <name of branch>
+- git checkout <name of Branch>
+- git clone "ssh link"
 
 - ssh-keygen -t rsa -C "Email@address.here"
 - ssh -T git@github.com
